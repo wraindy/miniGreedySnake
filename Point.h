@@ -17,4 +17,4 @@ public:
     void setXY(int x, int y);
 };
 
-#endif POINT_H
+#endif // POINT_H

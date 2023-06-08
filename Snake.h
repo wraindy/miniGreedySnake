@@ -3,4 +3,4 @@
 
 
 
-#endif SNAKE_H
+#endif // SNAKE_H
